@@ -48,6 +48,10 @@
    - Feature Engineering
    - Train_Test_Split
    - Feature encoding
+
+https://github.com/PRADEEP2911/ML/assets/119157906/eca72de9-b1bf-4fd8-8e77-5bc2512ae799
+
+
    - Feature Selection
    - Model Training
    - Prediction
